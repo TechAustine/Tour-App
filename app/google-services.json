@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290886151077",
+    "project_id": "globetrails-f4749",
+    "storage_bucket": "globetrails-f4749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290886151077:android:41b3f9e402d80083a1564c",
+        "android_client_info": {
+          "package_name": "com.tornad.globetrails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9aMbj5CcDyI0KXS2auARxR6ZojLvOZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
